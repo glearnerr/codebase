@@ -1,0 +1,119 @@
+{
+    "input": {
+        "resource": "/target-data",
+        "path": "/target-data",
+        "httpMethod": "GET",
+        "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate",
+            "cache-control": "no-cache",
+            "CloudFront-Forwarded-Proto": "https",
+            "CloudFront-Is-Desktop-Viewer": "true",
+            "CloudFront-Is-Mobile-Viewer": "false",
+            "CloudFront-Is-SmartTV-Viewer": "false",
+            "CloudFront-Is-Tablet-Viewer": "false",
+            "CloudFront-Viewer-Country": "IN",
+            "Host": "5ge0wcwola.execute-api.us-east-1.amazonaws.com",
+            "Postman-Token": "370f62ab-1e3f-4e44-b7e8-2c1a7e79b005",
+            "User-Agent": "PostmanRuntime/7.6.0",
+            "Via": "1.1 e04dc9cc3b1585bb49578025e0663506.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Id": "YcIzm_qQWMiLjgPaF4I99uRYR3_rPbuyxvW2dMH7MjsxZdi4sR0vFQ==",
+            "X-Amzn-Trace-Id": "Root=1-5d7f6ba3-264601865641bd85945880aa",
+            "X-Forwarded-For": "106.51.80.224, 52.46.49.76",
+            "X-Forwarded-Port": "443",
+            "X-Forwarded-Proto": "https"
+        },
+        "multiValueHeaders": {
+            "Accept": [
+                "*/*"
+            ],
+            "Accept-Encoding": [
+                "gzip, deflate"
+            ],
+            "cache-control": [
+                "no-cache"
+            ],
+            "CloudFront-Forwarded-Proto": [
+                "https"
+            ],
+            "CloudFront-Is-Desktop-Viewer": [
+                "true"
+            ],
+            "CloudFront-Is-Mobile-Viewer": [
+                "false"
+            ],
+            "CloudFront-Is-SmartTV-Viewer": [
+                "false"
+            ],
+            "CloudFront-Is-Tablet-Viewer": [
+                "false"
+            ],
+            "CloudFront-Viewer-Country": [
+                "IN"
+            ],
+            "Host": [
+                "5ge0wcwola.execute-api.us-east-1.amazonaws.com"
+            ],
+            "Postman-Token": [
+                "370f62ab-1e3f-4e44-b7e8-2c1a7e79b005"
+            ],
+            "User-Agent": [
+                "PostmanRuntime/7.6.0"
+            ],
+            "Via": [
+                "1.1 e04dc9cc3b1585bb49578025e0663506.cloudfront.net (CloudFront)"
+            ],
+            "X-Amz-Cf-Id": [
+                "YcIzm_qQWMiLjgPaF4I99uRYR3_rPbuyxvW2dMH7MjsxZdi4sR0vFQ=="
+            ],
+            "X-Amzn-Trace-Id": [
+                "Root=1-5d7f6ba3-264601865641bd85945880aa"
+            ],
+            "X-Forwarded-For": [
+                "106.51.80.224, 52.46.49.76"
+            ],
+            "X-Forwarded-Port": [
+                "443"
+            ],
+            "X-Forwarded-Proto": [
+                "https"
+            ]
+        },
+        "queryStringParameters": null,
+        "multiValueQueryStringParameters": null,
+        "pathParameters": null,
+        "stageVariables": null,
+        "requestContext": {
+            "resourceId": "2he74u",
+            "resourcePath": "/target-data",
+            "httpMethod": "GET",
+            "extendedRequestId": "AG3BiGtnIAMFT_Q=",
+            "requestTime": "16/Sep/2019:11:01:55 +0000",
+            "path": "/dev/target-data",
+            "accountId": "089628442215",
+            "protocol": "HTTP/1.1",
+            "stage": "dev",
+            "domainPrefix": "5ge0wcwola",
+            "requestTimeEpoch": 1568631715346,
+            "requestId": "b6496992-214a-483d-96c0-ca4709029675",
+            "identity": {
+                "cognitoIdentityPoolId": null,
+                "accountId": null,
+                "cognitoIdentityId": null,
+                "caller": null,
+                "sourceIp": "106.51.80.224",
+                "principalOrgId": null,
+                "accessKey": null,
+                "cognitoAuthenticationType": null,
+                "cognitoAuthenticationProvider": null,
+                "userArn": null,
+                "userAgent": "PostmanRuntime/7.6.0",
+                "user": null
+            },
+            "domainName": "5ge0wcwola.execute-api.us-east-1.amazonaws.com",
+            "apiId": "5ge0wcwola"
+        },
+        "body": null,
+        "isBase64Encoded": false
+    }
+}

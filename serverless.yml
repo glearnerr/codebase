@@ -1,0 +1,16 @@
+service: target-api
+
+provider:
+  name: aws
+  runtime: nodejs10.x
+  stage: dev
+  region: us-east-1
+
+functions:
+  target:
+    handler: handler.handler
+    memorySize: 128
+    events:
+      - http:
+          path: target-data
+          method: get
