@@ -5,3 +5,4 @@ handlers/errorHandler.js
 
 # Serverless directories
 .serverless
+.gitignore
